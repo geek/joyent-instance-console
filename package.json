@@ -1,5 +1,16 @@
 {
   "name": "joyent-instance-console",
   "private": true,
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "dependencies": {
+    "apr-main": "^4.0.3",
+    "brule": "^3.1.0",
+    "cloudapi-gql": "^4.6.0",
+    "hapi": "^17.2.0",
+    "inert": "^5.1.0",
+    "joyent-navigation": "^1.0.1",
+    "minio-proto-auth": "^1.1.0",
+    "my-joy-beta": "^1.0.1",
+    "rollover": "^1.0.0"
+  }
 }
